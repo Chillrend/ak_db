@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "Town 10 Regular";
+    src: url("../fonts/Town10Regular.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Town 10 Bold";
+    src: url("../fonts/Town10Bold.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Town 10 Light";
+    src: url("../fonts/Town10Light.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Town 10 Medium";
+    src: url("../fonts/Town10Medium.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bender-Light';
+    src: url('../fonts/Bender/3AF172_0_0.eot');
+    src: url('../fonts/Bender/3AF172_0_0.eot?#iefix') format('embedded-opentype'),url('../fonts/Bender/3AF172_0_0.woff2') format('woff2'),url('../fonts/Bender/3AF172_0_0.woff') format('woff'),url('../fonts/Bender/3AF172_0_0.ttf') format('truetype');}
+
+
+@font-face {
+    font-family: 'Bender-Bold';
+    src: url('../fonts/Bender/3AF172_1_0.eot');
+    src: url('../fonts/Bender/3AF172_1_0.eot?#iefix') format('embedded-opentype'),url('../fonts/Bender/3AF172_1_0.woff2') format('woff2'),url('../fonts/Bender/3AF172_1_0.woff') format('woff'),url('../fonts/Bender/3AF172_1_0.ttf') format('truetype');}
+
+
+@font-face {
+    font-family: 'Bender';
+    src: url('../fonts/Bender/3AF172_2_0.eot');
+    src: url('../fonts/Bender/3AF172_2_0.eot?#iefix') format('embedded-opentype'),url('../fonts/Bender/3AF172_2_0.woff2') format('woff2'),url('../fonts/Bender/3AF172_2_0.woff') format('woff'),url('../fonts/Bender/3AF172_2_0.ttf') format('truetype');}
