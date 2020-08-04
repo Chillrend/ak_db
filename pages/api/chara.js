@@ -1,5 +1,5 @@
-import char from '../../json/character_table.json';
-import story from '../../json/handbook_info_table';
+import char from '../../external_content/ArknightsGameData/en_US/gamedata/excel/character_table';
+import story from '../../external_content/ArknightsGameData/en_US/gamedata/excel/handbook_info_table';
 import { filter, startCase } from 'lodash';
 
 export default (req, res) => {
